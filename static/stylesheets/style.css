@@ -1,0 +1,76 @@
+body {
+  font-family: "helvetica", sans-serif;
+  text-align: center;
+}
+
+table {
+  margin-left:auto;
+  margin-right:auto;
+  font-size: 28px
+}
+
+p {
+	font-family: Raleway;
+	margin-left: auto;
+  margin-right: auto;
+	font-size: 40px;
+	font-weight: 800;
+	text-transform: uppercase;
+	border-bottom: 2px solid #f1f1f1;
+	width: 49%;
+	padding-bottom: 10px;
+}
+
+form {
+  float: left;
+  margin: 1.66%;
+}
+
+#cr {
+  background-image: url( 'https://caldining.berkeley.edu/sites/default/files/images/graphics/Crossroads-100.jpg' );
+  background-size: 100px 130px;
+  height: 134px;
+  width: 104px;
+}
+
+#cafe {
+  background-image: url( 'https://caldining.berkeley.edu/sites/default/files/images/graphics/Cafe%203-100.jpg' );
+  background-size: 100px 130px;
+  height: 134px;
+  width: 104px;
+}
+
+#clark {
+  background-image: url( 'https://caldining.berkeley.edu/sites/default/files/images/graphics/Clark%20Kerr-100.jpg' );
+  background-size: 100px 130px;
+  height: 134px;
+  width: 104px;
+}
+
+#foot {
+  background-image: url( 'https://caldining.berkeley.edu/sites/default/files/images/graphics/Foothill-100.jpg' );
+  background-size: 100px 130px;
+  height: 134px;
+  width: 104px;
+}
+
+#den {
+  background-image: url( 'https://caldining.berkeley.edu/sites/default/files/the_den_main.jpg' );
+  background-size: 100px 130px;
+  height: 134px;
+  width: 104px;
+}
+
+#gbc {
+  background-image: url( 'https://caldining.berkeley.edu/sites/default/files/images/graphics/The%20Golden%20Bear%20Cafe-100.jpg' );
+  background-size: 100px 130px;
+  height: 134px;
+  width: 104px;
+}
+
+#oski {
+    background-image: url( 'https://i.imgur.com/NXOzapE.png');
+    background-size: 100px 130px;
+    height: 134px;
+    width: 104px;
+}
